@@ -12,4 +12,4 @@ This policy is effective as of 21/05/2024.
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Your Contact Information].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at dimbous@proton.me.
